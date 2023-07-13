@@ -1,0 +1,2 @@
+matnjemch tnedy 3la objet kamel lezmek ta3mel object .7aja
+On Click ki tjy tendy 3la function matest3amlech (),OnClick={saySalem}
